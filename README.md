@@ -1,2 +1,3 @@
-# hws_hse
-some problems from homeworks and contests hse
+# algo_problems
+
+problems from hse contests related to algorithms and data structures course
